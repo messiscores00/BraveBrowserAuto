@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=x\ y
+comment10.target=void\ mouseMv(int,\ int)
+comment11.params=sec
+comment11.target=void\ waitTime(int)
+comment2.params=
+comment2.target=Auto()
+comment3.params=
+comment3.target=void\ ContiniousMousePos()
+comment4.params=
+comment4.target=void\ leftClick()
+comment5.params=
+comment5.target=void\ doubleLeftClick()
+comment6.params=
+comment6.target=void\ rightClick()
+comment7.params=i
+comment7.target=void\ type(int)
+comment8.params=s
+comment8.target=void\ hold(java.lang.String)
+comment9.params=s
+comment9.target=void\ type(java.lang.String)
+numComments=12

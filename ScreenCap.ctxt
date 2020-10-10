@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ScreenCap
+comment1.params=
+comment1.target=ScreenCap()
+comment2.params=
+comment2.target=void\ takeScreenShot()
+comment3.params=img1\ img2
+comment3.target=boolean\ bufferedImagesEqual(java.awt.image.BufferedImage,\ java.awt.image.BufferedImage)
+numComments=4
